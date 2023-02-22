@@ -1,5 +1,5 @@
-### Olá, sou Gilson Leonel jovem angolano e sonhador, apaixanado por tecnologia e programação.👋
-Redes sociais:
+### Hello, I'm Gilson Leonel, a young Angolan dreamer, passionate about technology and programming.👋
+If you want to know more about me, please visit my social media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-leonel-189219263/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilson_leonel1/)
@@ -9,7 +9,7 @@ Redes sociais:
 ![Fraga GitHub Status](https://github-readme-stats.vercel.app/api?username=gilson-leonel01&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilson-leonel01)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias atualmente usadas no meu dia-à-dia para Frontend.
+### Technologies currently used in my day-to-day for Frontend.
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -19,7 +19,7 @@ Redes sociais:
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <div/>
 
-### Tecnologias já usadas no meu dia-à-dia para Backend.
+### Technologies already used in my day-to-day for Backend.
 <div style="display: inline_block">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -27,18 +27,18 @@ Redes sociais:
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <div/>
 
-### Tecnologias já usadas no meu dia-à-dia para Banco de Dados.
+### Technologies already used in my day-to-day for Database.
 <div style="display: inline_block">
   <img align="center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <div/>  
 
 <br/>
-Meu objectivo é impactar à vida das pessoas através da programação, gosto de desafios e aprender bastante.
+My goal is to impact people's lives through programming, I like challenges and learning a lot.
 
  
- ### Últimas atualizações:
+ ### Last updates:
  
- -[]()<br/>
- -[]()<br/>
- -[]()<br/>
+ •[]()<br/>
+ •[]()<br/>
+ •[]()<br/>
