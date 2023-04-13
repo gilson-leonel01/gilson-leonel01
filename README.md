@@ -34,9 +34,8 @@ If you want to know more about me, please visit my social media:
 <div/>  
 
 <br/>
-My goal is to impact people's lives through programming, I like challenges and learning a lot.
+I like challenges and learning a lot, my goal is to impact people's lives through programming.
 
- 
  ### Last updates:
  
  •[]()<br/>
