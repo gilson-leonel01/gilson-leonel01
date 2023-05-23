@@ -16,11 +16,11 @@ If you want to know more about me, please visit my social media:
    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=000"/>
     <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=475hdd8"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/><br/>
-  <img align="center" alt="React Js" src="https://img.shields.io/badge/ReactJs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Next Js" src="https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=nextjs&logoColor=61DAFB"/>
+  <img align="center" alt="React Js" src="https://img.shields.io/badge/React Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" alt="Next Js" src="https://img.shields.io/badge/Next Js-20232A?style=for-the-badge&logo=nextjs&logoColor=61DAFB"/>
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge&logo=kotlin&logoColor=61DAFB"/>
+  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge&logo=kotlin&logoColor=orange"/>
 <div/>
 
 
