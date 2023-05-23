@@ -6,7 +6,7 @@ If you want to know more about me, please visit my social media:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gilson.loureiro.23/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gilson_leonel1)
 
-![Fraga GitHub Status](https://github-readme-stats.vercel.app/api?username=EufranioDiogo&show_icons=true&theme=dracula)
+![Fraga GitHub Status](https://github-readme-stats.vercel.app/api?username=ivandrosousa&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilson-leonel01)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies currently used in my day-to-day for Frontend.
