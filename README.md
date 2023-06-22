@@ -18,11 +18,15 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <br/><br/>
-  ### Technologies currently used in my day-to-day for Frontend Mobile.
+<div/>
+  
+ ### Technologies currently used in my day-to-day for Frontend Mobile.
+ <div style="display: inline_block">
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img align="center" alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> 
+    <br/><br/>
 <div/>
  
 ### Technologies already used in my day-to-day for Database.
