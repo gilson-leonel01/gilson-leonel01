@@ -20,11 +20,9 @@ If you want to know more about me, please visit my social media:
   <br/><br/>
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> 
 <div/>
-
-
+ 
 ### Technologies already used in my day-to-day for Database.
 <div style="display: inline_block">
   <img align="center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -38,6 +36,6 @@ I like challenges and learning a lot, my goal is to impact people's lives throug
 
  ### Last updates:
  
- •[]()<br/>
- •[]()<br/>
- •[]()<br/>
+ •[1](1)<br/>
+ •[2](1)<br/>
+ •[3](1)<br/>
