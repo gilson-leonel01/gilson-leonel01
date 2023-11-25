@@ -54,6 +54,6 @@ If you want to know more about me, please visit my social media:
 I like challenges and learning a lot, my goal is to impact people's lives through programming.
 
  ### Last updates:
- •[https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor](Learning about C#, Asp.net for Web)<br/>
- •[]()<br/>
- •[]()<br/>
+ • Learning about C#, Asp.net for Web<br/>
+ • Learning about C++, for Embedded system<br/>
+ • Learning about Marketing and Business<br/>
