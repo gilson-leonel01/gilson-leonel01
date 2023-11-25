@@ -1,4 +1,4 @@
-### Hello, I'm Gilson Leonel, a young angolan dreamer, passionate about technology and programming.👋
+### Hello👋, I'm Gilson Leonel, a young angolan dreamer, passionate about technology and programming.
 If you want to know more about me, please visit my social media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-leonel01/)
