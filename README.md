@@ -49,8 +49,6 @@ If you want to know more about me, please visit my social media:
 I like challenges and learning a lot, my goal is to impact people's lives through programming.
 
  ### Last updates:
- • I'm currently studying mobile application development with Kotlin
-  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> <br/>
- • I'm currently studying mobile application development with Xamarin/MAUI
-  <img align="center" alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/><br/>
+ • I'm currently studying mobile application development with Kotlin; <br>
+ • Next I'll start study mobile application development with Xamarin/MAUI; <br>
 
