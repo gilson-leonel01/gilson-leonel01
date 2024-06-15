@@ -22,8 +22,18 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="VUE.JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <br/><br/>
 <div/>
+
+### Technologies currently used in my day-to-day for Backend Web.
+<div style="display: inline_block">
+  COMING SOON...
+  <br/>
+  PYTHON, JAVASCRIPT, TYPESCRIPT, NODEJS 
+  <br/>
+  JAVA, C#, DART, KOTLIN
+  <br/><br/>
+<div/>
   
- ### Technologies currently used in my day-to-day for Frontend Mobile.
+ ### Technologies currently used in my day-to-day for Mobile.
  <div style="display: inline_block">
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
