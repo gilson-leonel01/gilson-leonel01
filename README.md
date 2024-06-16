@@ -1,4 +1,4 @@
-### Hello👋, I'm Gilson Leonel Virgilio Loureiro, a young angolan dreamer, passionate about technology and programming.
+### Hello👋, I'm Gilson Leonel Virgilio Loureiro, a young angolan dreamer, passionate about technology and programming, trying to be a good Software Engineer at the end.
 If you want to know more about me, please visit my social media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-leonel01/)
@@ -37,7 +37,6 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="100" height="100"/>
   <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="100" height="100"/>
   <img align="center" alt="Kotlin" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="100" height="100"/>
-  <br/><br/>
   <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="100" height="100"/>
   <img align="center" alt="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="100" height="100"/>
   <img align="center" alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="100" height="100"/>
@@ -58,7 +57,7 @@ If you want to know more about me, please visit my social media:
 ### Technologies already used in my day-to-day for Database.
 <div style="display: inline_block">
   <img align="center" alt="MySQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="100" height="100"/>
-  <img align="center" alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge" width="100" height="100"/>
+  <img align="center" alt="XAMPP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Xampp.svg" width="100" height="100"/>
   <img align="center" alt="PostgreSQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="100" height="100"/>
   <img align="center" alt="Supabase" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="100" height="100"/>
 <div/>  
@@ -76,4 +75,3 @@ I like challenges and learning a lot, my goal is to impact people's lives throug
  ### Last updates:
  • I'm currently developing E-commerce Mobile App with Dart/Flutter; <br>
  • Next I'll start develop Full-Stack Web Task Management Tool with React/NodeJS; <br>
-
