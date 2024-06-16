@@ -9,56 +9,71 @@ If you want to know more about me, please visit my social media:
 ![Fraga GitHub Status](https://github-readme-stats.vercel.app/api?username=gilson-leonel01&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilson-leonel01)](https://github.com/gilson-leonel01/github-readme-stats)
 
+### Technologies currently used in my day-to-day for Version Control.
+<div style="display: inline_block">
+  <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
+  <img align="center" alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
+  <img align="center" alt="GitLab" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg"/>
+  <br/><br/>
+<div/>
+
 ### Technologies currently used in my day-to-day for Frontend Web.
 <div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
+  <img align="center" alt="CSS3" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
+  <img align="center" alt="Bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"/>
+  <img align="center" alt="MaterialUI" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg"/>
+  <img align="center" alt="TailwindCSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>
   <br/><br/>
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="Typecript" src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue"/>
-  <img align="center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="VUE.JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img align="center" alt="ReactJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
+  <img align="center" alt="NextJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/>
+  <img align="center" alt="VueJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg"/>
+  <img align="center" alt="NuxtJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg"/>
   <br/><br/>
 <div/>
 
 ### Technologies currently used in my day-to-day for Backend Web.
 <div style="display: inline_block">
-  COMING SOON...
-  <br/>
-  PYTHON, JAVASCRIPT, TYPESCRIPT, NODEJS 
-  <br/>
-  JAVA, C#, DART, KOTLIN
+  <img align="center" alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"/>
+  <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
+  <img align="center" alt="Kotlin" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg"/>
   <br/><br/>
+  <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
+  <img align="center" alt="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/>
+  <img align="center" alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>
+  <img align="center" alt="Dart" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg"/>
+  <br/><br/>
+  <img align="center" alt="Asp.net" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
+  <img align="center" alt="Spring" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
+  <img align="center" alt="NodeJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
 <div/>
   
  ### Technologies currently used in my day-to-day for Mobile.
  <div style="display: inline_block">
-  <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img align="center" alt="React Native" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
+  <img align="center" alt="Flutter" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg"/>
   <br/><br/>
 <div/>
  
 ### Technologies already used in my day-to-day for Database.
 <div style="display: inline_block">
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt="MySQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
   <img align="center" alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge"/>
-  <img align="center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="SupaBase" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img align="center" alt="PostgreSQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
+  <img align="center" alt="Supabase" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg"/>
 <div/>  
 
 ### Technologies already used in my day-to-day for Design.
 <div style="display: inline_block">
-  <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-  <img align="center" alt="Adobe Ilustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img align="center" alt="Adobe Photoshop" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg"/>
+  <img align="center" alt="Adobe Ilustrator" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg"/>
+  <img align="center" alt="Figma" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
 <div/> 
   
 <br/><br/>
 I like challenges and learning a lot, my goal is to impact people's lives through programming.
 
  ### Last updates:
- • I'm currently studying mobile application development with Kotlin; <br>
- • Next I'll start study mobile application development with Xamarin/MAUI; <br>
+ • I'm currently developing E-commerce Mobile App with Dart/Flutter; <br>
+ • Next I'll start develop Full-Stack Web Task Management Tool with React/NodeJS; <br>
 
