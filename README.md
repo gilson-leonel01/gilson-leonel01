@@ -11,7 +11,7 @@ If you want to know more about me, please visit my social media:
 
 ### Technologies currently used in my day-to-day for Version Control.
 <div style="display: inline_block">
-  <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="10" height="10"/>
+  <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="100" height="100"/>
   <img align="center" alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
   <img align="center" alt="GitLab" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg"/>
   <br/><br/>
