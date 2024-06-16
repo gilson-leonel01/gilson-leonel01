@@ -17,7 +17,7 @@ If you want to know more about me, please visit my social media:
   <br/><br/>
 <div/>
 
-### Technologies currently used in my day-to-day for Frontend Web.
+### Technologies currently used in my day-to-day for Frontend.
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="100" height="100"/>
   <img align="center" alt="CSS3" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="100" height="100"/>
@@ -32,7 +32,7 @@ If you want to know more about me, please visit my social media:
   <br/><br/>
 <div/>
 
-### Technologies currently used in my day-to-day for Backend Web.
+### Technologies currently used in my day-to-day for Backend.
 <div style="display: inline_block">
   <img align="center" alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="100" height="100"/>
   <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="100" height="100"/>
