@@ -11,7 +11,7 @@ If you want to know more about me, please visit my social media:
 
 ### Technologies currently used in my day-to-day for Version Control.
 <div style="display: inline_block">
-  <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
+  <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="10" height="10"/>
   <img align="center" alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
   <img align="center" alt="GitLab" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg"/>
   <br/><br/>
@@ -25,7 +25,7 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="MaterialUI" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg"/>
   <img align="center" alt="TailwindCSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>
   <br/><br/>
-  <img align="center" alt="ReactJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" style="height: 5; width: 5;"/>
+  <img align="center" alt="ReactJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
   <img align="center" alt="NextJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/>
   <img align="center" alt="VueJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg"/>
   <img align="center" alt="NuxtJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg"/>
