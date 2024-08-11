@@ -59,7 +59,7 @@ If you want to know more about me, please visit my social media:
 ### Technologies already used in my day-to-day for Database.
 <div style="display: inline_block">
   <img align="center" alt="MySQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="XAMPP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Xampp.svg" wwidth="75" height="75"/>
+  <img align="center" alt="XAMPP" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" wwidth="75" height="75"/>
   <img align="center" alt="PostgreSQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="75" height="75"/>
   <!--<img align="center" alt="Supabase" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="75" height="75"/>-->
 <div/>  
