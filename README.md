@@ -29,7 +29,7 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="NextJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="75" height="75"/>
   <img align="center" alt="VueJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" wwidth="75" height="75"/>
   <img align="center" alt="NuxtJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="Blazzor" src="https://encurtador.com.br/YIpY6" width="75" height="75" style="border-radius: 10;"/>
+  <img align="center" alt="Blazzor" src="https://encurtador.com.br/YIpY6" width="75" height="75" style="border-radius: 10px;"/>
   <br/><br/>
 <div/>
 
