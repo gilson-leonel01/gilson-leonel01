@@ -29,6 +29,7 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="NextJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="75" height="75"/>
   <img align="center" alt="VueJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" wwidth="75" height="75"/>
   <img align="center" alt="NuxtJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" width="75" height="75"/>
+  <img align="center" alt="Blazzor" src="https://encurtador.com.br/YIpY6" width="75" height="75"/>
   <br/><br/>
 <div/>
 
@@ -44,7 +45,8 @@ If you want to know more about me, please visit my social media:
   <br/><br/>
   <!--<img align="center" alt="Asp.net" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="75" height="75"/>
   <img align="center" alt="Spring" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="NodeJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="75" height="75"/>-->
+  <img align="center" alt="NodeJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="75" height="75"/>
+  <img align="center" alt="NestJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="75" height="75"/>-->
 <div/>
   
  ### Technologies currently used in my day-to-day for Mobile.
@@ -73,5 +75,5 @@ If you want to know more about me, please visit my social media:
 I like challenges and learning a lot, my goal is to impact people's lives through programming.
 
  ### Last updates:
- • I'm currently developing E-commerce Mobile App; <br>
- • Next I'll start develop Full-Stack Web Task Management Tool; <br>
+ •  ; <br>
+ •  ; <br>
