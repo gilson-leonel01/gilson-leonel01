@@ -82,8 +82,7 @@ If you want to know more about me, please visit my social media:
 
   <br/><br/>
 <div/> 
-  
-<br/><br/>
+
 I like challenges and learning a lot, my goal is to impact people's lives through programming.
 
  ### Last updates:
