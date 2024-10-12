@@ -14,9 +14,16 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="75" height="75"/>
   <img align="center" alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="75" height="75"/>
   <img align="center" alt="GitLab" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="75" height="75"/>
-  <br/><br/>
 <div/>
-
+  
+### Languages currently used to coding in my day-to-day.
+<div style="display: inline_block">
+  <img align="center" alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="75" height="75"/>
+  <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="75" height="75"/>
+  <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="75" height="75"/>
+  <img align="center" alt="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="75" height="75"/>
+<div/>
+  
 ### Technologies currently used in my day-to-day for Frontend.
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="75" height="75"/>
@@ -24,29 +31,22 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="Bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="75" height="75"/>
   <img align="center" alt="MaterialUI" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="75" height="75"/>
   <img align="center" alt="TailwindCSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="75" height="75"/>
+  
   <br/><br/>
+  
   <img align="center" alt="ReactJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="75" height="75"/>
   <img align="center" alt="NextJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="75" height="75"/>
   <img align="center" alt="VueJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" wwidth="75" height="75"/>
   <img align="center" alt="NuxtJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" width="75" height="75"/>
-  <!--<img align="center" alt="Blazzor" src="https://encurtador.com.br/YIpY6" width="75" height="75" />-->
   <br/><br/>
 <div/>
 
 ### Technologies currently used in my day-to-day for Backend.
 <div style="display: inline_block">
-  <img align="center" alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="75" height="75"/>
-  <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="75" height="75"/>
-  <img align="center" alt="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="75" height="75"/>
-  <!--<img align="center" alt="Kotlin" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="Dart" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="75" height="75"/>
-  <br/><br/>
-  <!--<img align="center" alt="Asp.net" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="75" height="75"/>
+  <img align="center" alt="Asp.net" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="75" height="75"/>
   <img align="center" alt="Spring" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="75" height="75"/>
   <img align="center" alt="NodeJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="NestJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="75" height="75"/>-->
+  <img align="center" alt="NestJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="75" height="75"/>
 <div/>
   
  ### Technologies currently used in my day-to-day for Mobile.
@@ -61,7 +61,7 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="MySQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="75" height="75"/>
   <img align="center" alt="XAMPP" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" wwidth="75" height="75"/>
   <img align="center" alt="PostgreSQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="75" height="75"/>
-  <!--<img align="center" alt="Supabase" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="75" height="75"/>-->
+  <img align="center" alt="Supabase" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="75" height="75"/>
 <div/>  
 
 ### Technologies already used in my day-to-day for Design.
