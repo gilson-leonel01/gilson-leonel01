@@ -28,17 +28,16 @@ If you want to know more about me, please visit my social media:
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="75" height="75"/>
   <img align="center" alt="CSS3" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="75" height="75"/>
-  <img align="center" alt="Bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="75" height="75"/>
-  <img align="center" alt="MaterialUI" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="TailwindCSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="75" height="75"/>
-  
-  <br/><br/>
-  
   <img align="center" alt="ReactJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="75" height="75"/>
   <img align="center" alt="NextJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="75" height="75"/>
   <img align="center" alt="VueJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" wwidth="75" height="75"/>
   <img align="center" alt="NuxtJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" width="75" height="75"/>
+  
   <br/><br/>
+  
+  <img align="center" alt="Bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="75" height="75"/>
+  <img align="center" alt="MaterialUI" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="75" height="75"/>
+  <img align="center" alt="TailwindCSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="75" height="75"/>
 <div/>
 
 ### Technologies currently used in my day-to-day for Backend.
