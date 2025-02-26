@@ -20,7 +20,7 @@ If you want to know more about me, please visit my social media:
   
 ### Languages currently used to coding in my day-to-day.
 <div style="display: inline_block">
-  <img align="center" alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="75" height="75"/>
+  <img align="center" alt="C#" src="https://github.com/tandfun/skill-icons/blob/main/icons/CS.svg" width="75" height="75"/>
   <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="75" height="75"/>
   <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="75" height="75"/>
   <img align="center" alt="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="75" height="75"/>
@@ -48,8 +48,8 @@ If you want to know more about me, please visit my social media:
 
 ### Technologies currently used in my day-to-day for Backend.
 <div style="display: inline_block">
-  <img align="center" alt="Asp.net" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="75" height="75"/>
-  <img align="center" alt="Spring" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="75" height="75"/>
+  <img align="center" alt="Asp.net" src="https://github.com/tandfun/skill-icons/blob/main/icons/DotNet.svg" width="75" height="75"/>
+  <img align="center" alt="Spring" src="https://github.com/tandfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="75" height="75"/>
   <img align="center" alt="NodeJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="75" height="75"/>
   <img align="center" alt="NestJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="75" height="75"/>
 
@@ -67,7 +67,7 @@ If you want to know more about me, please visit my social media:
 ### Technologies already used in my day-to-day for Database.
 <div style="display: inline_block">
   <img align="center" alt="MySQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="XAMPP" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" wwidth="75" height="75"/>
+  <img align="center" alt="XAMPP" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" wwidth="75" height="75"/>
   <img align="center" alt="PostgreSQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="75" height="75"/>
   <img align="center" alt="Supabase" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="75" height="75"/>
 
@@ -86,5 +86,6 @@ If you want to know more about me, please visit my social media:
 I like challenges and learning a lot, my goal is to impact people's lives through programming.
 
  ### Last updates:
+ •  ; <br>
  •  ; <br>
  •  ; <br>
