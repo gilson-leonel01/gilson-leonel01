@@ -47,10 +47,9 @@ If you want to know more about me, please visit my social media:
 
 ### Technologies currently used in my day-to-day for Backend.
 <div style="display: inline_block">
-  <img align="center" alt="Spring" src="https://github.com/tandfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="NodeJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="75" height="75"/>
+  <img align="center" alt="Spring" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="75" height="75"/>
+  <img align="center" alt="NodeJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="75" height="75"/>
   <img align="center" alt="NestJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="Prisma" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="75" height="75"/>
 
   <br/><br/>
 <div/>
@@ -69,6 +68,8 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="XAMPP" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" wwidth="75" height="75"/>
   <img align="center" alt="PostgreSQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="75" height="75"/>
   <img align="center" alt="Supabase" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="75" height="75"/>
+  
+  <img align="center" alt="Prisma" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="75" height="75"/>
 
   <br/><br/>
 <div/>  
