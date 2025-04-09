@@ -1,4 +1,4 @@
-### Hello👋, I'm Gilson Leonel Virgilio Loureiro, a young angolan dreamer, passionate about technology and programming, trying to be a good Software Engineer at the end.
+### Hello👋, I'm Gilson Leonel Virgilio Loureiro, a young angolan dreamer, passionate about technology and programming, trying to be a better Software Engineer every day.
 If you want to know more about me, please visit my social media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-leonel01/)
@@ -20,6 +20,7 @@ If you want to know more about me, please visit my social media:
   
 ### Languages currently used to coding in my day-to-day.
 <div style="display: inline_block">
+  <img align="center" alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="75" height="75"/>
   <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="75" height="75"/>
   <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="75" height="75"/>
   <img align="center" alt="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="75" height="75"/>
@@ -29,8 +30,7 @@ If you want to know more about me, please visit my social media:
   
 ### Technologies currently used in my day-to-day for Frontend.
 <div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="75" height="75"/>
-  <img align="center" alt="CSS3" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="75" height="75"/>
+  <img align="center" alt="Blazor" src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2019/04/BrandBlazor_big_with_border.png" width="75" height="75"/>
   <img align="center" alt="ReactJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="75" height="75"/>
   <img align="center" alt="NextJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="75" height="75"/>
   <img align="center" alt="VueJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" wwidth="75" height="75"/>
@@ -38,6 +38,8 @@ If you want to know more about me, please visit my social media:
   
   <br/><br/>
   
+  <img align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="75" height="75"/>
+  <img align="center" alt="CSS3" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="75" height="75"/>
   <img align="center" alt="Bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="75" height="75"/>
   <img align="center" alt="MaterialUI" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="75" height="75"/>
   <img align="center" alt="TailwindCSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="75" height="75"/>
