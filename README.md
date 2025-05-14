@@ -18,12 +18,13 @@ If you want to know more about me, please visit my social media:
   <br/><br/>
 <div/>
   
-### Languages currently used to coding in my day-to-day.
+### Programming languages currently used to coding in my day-to-day.
 <div style="display: inline_block">
   <img align="center" alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="75" height="75"/>
   <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="75" height="75"/>
   <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="75" height="75"/>
   <img align="center" alt="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="75" height="75"/>
+  <img align="center" alt="Dart" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="75" height="75"/>
 
   <br/><br/>
 <div/>
@@ -67,9 +68,10 @@ If you want to know more about me, please visit my social media:
 ### Technologies already used in my day-to-day for Database.
 <div style="display: inline_block">
   <img align="center" alt="MySQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="XAMPP" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" wwidth="75" height="75"/>
   <img align="center" alt="PostgreSQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="75" height="75"/>
+  <img align="center" alt="XAMPP" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" wwidth="75" height="75"/>
   <img align="center" alt="Supabase" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="75" height="75"/>
+  <img align="center" alt="Firebase" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="75" height="75"/>
   
   <img align="center" alt="Prisma" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="75" height="75"/>
 
@@ -80,7 +82,7 @@ If you want to know more about me, please visit my social media:
 <div style="display: inline_block">
   <img align="center" alt="Adobe Photoshop" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="75" height="75"/>
   <img align="center" alt="Adobe Ilustrator" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="75" height="75"/>
-  <img align="center" alt="Figma" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="75" height="75"/>
+  <img align="center" alt="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/500px-Figma-logo.svg.png?20190122211436" width="75" height="75"/>
 
   <br/><br/>
 <div/> 
