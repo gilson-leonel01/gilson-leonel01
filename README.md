@@ -82,7 +82,7 @@ If you want to know more about me, please visit my social media:
 <div style="display: inline_block">
   <img align="center" alt="Adobe Photoshop" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="75" height="75"/>
   <img align="center" alt="Adobe Ilustrator" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="75" height="75"/>
-  <img align="center" alt="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/500px-Figma-logo.svg.png?20190122211436" width="75" height="75"/>
+  <img align="center" alt="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="75" height="75"/>
 
   <br/><br/>
 <div/> 
