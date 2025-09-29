@@ -14,13 +14,13 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="75" height="75"/>
   <img align="center" alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="75" height="75"/>
   <img align="center" alt="GitLab" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="75" height="75"/>
+  <img align="center" alt="Docker" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="75" height="75"/>
 
   <br/><br/>
 <div/>
   
 ### Programming languages currently used to coding in my day-to-day.
 <div style="display: inline_block">
-  <img align="center" alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="75" height="75"/>
   <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="75" height="75"/>
   <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="75" height="75"/>
   <img align="center" alt="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="75" height="75"/>
@@ -31,7 +31,6 @@ If you want to know more about me, please visit my social media:
   
 ### Technologies currently used in my day-to-day for Frontend.
 <div style="display: inline_block">
-  <img align="center" alt="Blazor" src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2019/04/BrandBlazor_big_with_border.png" width="75" height="75"/>
   <img align="center" alt="ReactJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="75" height="75"/>
   <img align="center" alt="NextJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="75" height="75"/>
   <img align="center" alt="VueJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" wwidth="75" height="75"/>
