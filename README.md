@@ -88,8 +88,8 @@ If you want to know more about me, please visit my social media:
 I like challenges and learning a lot, my goal is to impact people's lives through programming.
 
  ### Last updates:
- • Learning CI/CD;
- • Learning Docker;
- • Learning  Angular;
- • Automation with AI;
+ • Learning CI/CD; <br />
+ • Learning Docker; <br />
+ • Learning  Angular; <br />
+ • Automation with AI; <br />
  • Learning Kubernetes;
