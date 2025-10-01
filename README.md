@@ -14,7 +14,6 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="75" height="75"/>
   <img align="center" alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="75" height="75"/>
   <img align="center" alt="GitLab" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="75" height="75"/>
-  <img align="center" alt="Docker" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="75" height="75"/>
 
   <br/><br/>
 <div/>
@@ -89,6 +88,8 @@ If you want to know more about me, please visit my social media:
 I like challenges and learning a lot, my goal is to impact people's lives through programming.
 
  ### Last updates:
- •  ; <br>
- •  ; <br>
+ • Learning 
+  <img align="center" alt="Docker" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="75" height="75"/> ; <br>
+ • Learning 
+  <img align="center" alt="Docker" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="75" height="75"/> ; <br> ; <br>
  •  ; <br>
