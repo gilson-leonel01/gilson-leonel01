@@ -78,6 +78,9 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="XAMPP" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" wwidth="75" height="75" />
   <img align="center" alt="Supabase" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="75" height="75" />
   <img align="center" alt="Firebase" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="75" height="75" />
+
+  <br />
+  <br />
   
   <img align="center" alt="Prisma" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="75" height="75" />
   <img align="center" alt="Hibernate" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" width="75" height="75" />
@@ -87,7 +90,7 @@ If you want to know more about me, please visit my social media:
   <br />
 <div/>  
 
-### Technologies already used in my day-to-day for Containerization & Orchestration.
+### Technologies already used in my day-to-day for Containerization & Orches.
 <div style="display: inline_block">
   <img align="center" alt="Docker" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="75" height="75" />
   <img align="center" alt="Kubernetes" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" width="75" height="75" />
