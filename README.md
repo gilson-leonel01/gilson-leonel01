@@ -56,7 +56,6 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="Spring" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="75" height="75" />
   <img align="center" alt="NodeJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="75" height="75" />
   <img align="center" alt="ExpressJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="75" height="75" />
-  <img align="center" alt="NestJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="75" height="75" />
 
   <br />
   <br />
