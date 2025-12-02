@@ -6,8 +6,8 @@ If you want to know more about me, please visit my social media:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gilson.loureiro.23/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_GLVL001)
 
-![Fraga GitHub Status](https://github-readme-stats.vercel.app/api?username=gilson-leonel01&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilson-leonel01)](https://github.com/gilson-leonel01/github-readme-stats)
+![Gilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilson-leonel01&show_icons=true&theme=dracula)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gilson-leonel01&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=e7e5e7&text_color=d9d7d6)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies currently used in my day-to-day for Version Control.
 <div style="display: inline_block">
