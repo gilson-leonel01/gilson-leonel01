@@ -32,7 +32,6 @@ If you want to know more about me, please visit my social media:
   
 ### Technologies currently used in my day-to-day for Frontend.
 <div style="display: inline_block">
-  <img align="center" alt="Angular" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="75" height="75" />
   <img align="center" alt="ReactJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="75" height="75" />
   <img align="center" alt="NextJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="75" height="75" />
   <img align="center" alt="VueJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" wwidth="75" height="75" />
