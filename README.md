@@ -26,6 +26,7 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="75" height="75" />
   <img align="center" alt="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="75" height="75" />
   <img align="center" alt="Dart" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="75" height="75" />
+  <img align="center" alt="Kotlin" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="75" height="75" />
 
   <br />
   <br />
@@ -58,7 +59,8 @@ If you want to know more about me, please visit my social media:
   <img align="center" alt="NodeJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="75" height="75" />
   <img align="center" alt="ExpressJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="75" height="75" />
   <img align="center" alt="NestJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="75" height="75" />
-
+  <img align="center" alt="NestJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ktor-Dark.svg" width="75" height="75" />
+  
   <br />
   <br />
 <div/>
@@ -127,6 +129,7 @@ I like challenges and learning a lot, my goal is to impact people's lives throug
 
  ### Last updates:
  • Learning CI/CD; <br />
+ • Learning GoLang; <br />
  • Learning Angular; <br />
  • Learning Fullstack; <br />
  • Automation with AI; <br />
